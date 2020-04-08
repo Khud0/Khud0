@@ -1,0 +1,8 @@
+C:\Files\C# Projects\Khud0\Khud0\bin\Debug\netstandard2.0\Khud0.deps.json
+C:\Files\C# Projects\Khud0\Khud0\bin\Debug\netstandard2.0\Khud0.dll
+C:\Files\C# Projects\Khud0\Khud0\bin\Debug\netstandard2.0\Khud0.pdb
+C:\Files\C# Projects\Khud0\Khud0\obj\Debug\netstandard2.0\Khud0.csprojAssemblyReference.cache
+C:\Files\C# Projects\Khud0\Khud0\obj\Debug\netstandard2.0\Khud0.AssemblyInfoInputs.cache
+C:\Files\C# Projects\Khud0\Khud0\obj\Debug\netstandard2.0\Khud0.AssemblyInfo.cs
+C:\Files\C# Projects\Khud0\Khud0\obj\Debug\netstandard2.0\Khud0.dll
+C:\Files\C# Projects\Khud0\Khud0\obj\Debug\netstandard2.0\Khud0.pdb
