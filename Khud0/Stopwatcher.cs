@@ -8,7 +8,6 @@ namespace Khud0
         public static class Stopwatcher
         {
             private static Stopwatch stopwatch = default;
-
             public static void Start()
             {
                 if (stopwatch == default) 
@@ -16,7 +15,6 @@ namespace Khud0
                     stopwatch = Stopwatch.StartNew();
                 } else stopwatch.Restart();
             }
-
             public static void Stop()
             {
                 if (stopwatch == default) { Console.WriteLine("Stopwatch hadn't been started before you tried to stop it."); return; }
