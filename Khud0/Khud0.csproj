@@ -1,8 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Product>Khud0 Library</Product>
+    <Version>1.0.3</Version>
+    <RepositoryUrl>https://github.com/Khud0/Khud0</RepositoryUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>C:\Files\C# Projects\NuGet Packages\</OutputPath>
   </PropertyGroup>
 
 </Project>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Khud0</id>
+    <version>1.0.1</version>
+    <authors>Khud0</authors>
+    <owners>Khud0</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <repository url="https://github.com/Khud0/Khud0" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Files\C# Projects\NuGet Packages\netstandard2.0\Khud0.dll" target="lib\netstandard2.0\Khud0.dll" />
+  </files>
+</package>
